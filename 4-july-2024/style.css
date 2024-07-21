@@ -1,11 +1,39 @@
-body {
-    text-align:;
-}
-body {
-    text-size-adjust: 100;
-}
+
 /* #851f06 (red color) */
 
-h1 {
-    text-decoration-color: #df821f;
+.h1p{
+    font-size: larger;
+     
+ }
+ .h2p{
+     font-size: larger;
+ 
+ }
+
+h1,h2{
+    color: #df821f;
+
 }
+h3{
+    color: #851f06;
+
+}
+h1:hover{
+    text-shadow: 2px 2px 2px #851f06
+}
+h1{
+    font-size: 40px;
+   
+}
+h2{
+    font-size: 30px;
+    font-weight: bold;
+}
+.Contactme{
+    text-decoration: none;
+}
+.h1p::first-letter{
+   color: #df821f;
+   font-size: larger;
+}
+
