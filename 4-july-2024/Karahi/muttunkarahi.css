@@ -1,0 +1,20 @@
+h1{
+    color: #df821f;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font: size 40px; ;
+}
+h1:hover{
+    text-shadow: 2px 2px 1px #851f06;
+}
+
+body{
+    text-align: center;
+    
+}
+p{
+    font-style: italic;
+    color: white;
+}
+*{
+    background-color: burlywood;
+}

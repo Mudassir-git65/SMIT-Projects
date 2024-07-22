@@ -1,5 +1,7 @@
 
-/* #851f06 (red color) */
+*{
+    background-color: burlywood;
+}
 
 .h1p{
     font-size: larger;
@@ -18,19 +20,21 @@ h3{
     color: #851f06;
 
 }
-h1:hover{
-    text-shadow: 2px 2px 2px #851f06
-}
 h1{
     font-size: 40px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-shadow:  3px 3px 3px #851f06
    
 }
 h2{
     font-size: 30px;
     font-weight: bold;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-shadow: 3px 3px 3px #851f06
 }
 .Contactme{
     text-decoration: none;
+    font-weight: bolder;
 }
 .h1p::first-letter{
    color: #df821f;
