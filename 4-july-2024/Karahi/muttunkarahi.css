@@ -1,5 +1,5 @@
 h1{
-    color: #df821f;
+    color: black;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font: size 40px; ;
 }
@@ -16,5 +16,5 @@ p{
     color: white;
 }
 *{
-    background-color: burlywood;
-}
+    background-color: #03a9f4;
+   }

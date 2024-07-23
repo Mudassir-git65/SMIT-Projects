@@ -1,0 +1,16 @@
+.heading{
+    color: rgb(255, 255, 255);
+    background-color: rgb(0, 0, 0);
+    height: 100px;
+    font-size: 30px;
+    padding: 10px 20px 90px 20px;
+   margin: 0px auto;
+    border: 10px solid rgb(255, 255, 255);
+
+}
+h1{
+    text-align: center;
+}
+*{
+    background-color: rgb(243, 139, 4);
+}
