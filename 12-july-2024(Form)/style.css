@@ -1,6 +1,5 @@
 .heading{
     color: rgb(0, 0, 0);
-    background-color: goldenrod;
     font-size: 30px;
    margin: 0 auto;
     border: 1px solid transparent;
@@ -10,13 +9,10 @@
     display: ;
     z-index: 3;
     text-align: center;
-
-}
-h1{
-    text-align: center;
-}
+ }
 *{
     background-color: #ffffff;;
+    
 }
 
 .stuff{
@@ -34,12 +30,13 @@ h1{
     color: white;
 }
 .input1{
-   ;
+   
     
 }
 .input2{
-    margin-right: 28px;
-}
+    margin-right: 29px;
+
+ }
 .cities{
     margin-left: 20px;
 }
@@ -49,11 +46,12 @@ h1{
 }
 .bottomtext{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    border: 10px solid transparent;
-    box-shadow: 2px 5px 1px goldenrod;
+    border: 20px solid transparent;
+    box-shadow: 2px 5px 1px #7A6123;
     /* box-shadow:  2px 5px 1px rgba(64,60,67,.16); */
     border-radius: 24px;
-    margin-top: ;
+    align-items: center;
+    background-color: #fffcf4ce;
 }
 h2{
     font-weight: bolder;
@@ -63,7 +61,7 @@ h2{
 }
 button:hover{
     color: black;
-    background-color: goldenrod;
+    background-color:#7A6123;
   
   
 }
@@ -76,8 +74,17 @@ h5{
 }
 .date{
     margin-top: 0px;
-    margin-right: 60px;
+    margin-right: 50px;
 }
 .cities{
     margin-right: px;
+}
+h1:hover{
+    color: #7A6123;
+}
+h5:hover{
+    color: #7A6123;
+}
+h2:hover{
+    color: #7A6123;
 }
