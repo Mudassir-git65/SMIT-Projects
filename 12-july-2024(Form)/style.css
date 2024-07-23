@@ -1,16 +1,83 @@
 .heading{
-    color: rgb(255, 255, 255);
-    background-color: rgb(0, 0, 0);
-    height: 100px;
+    color: rgb(0, 0, 0);
+    background-color: goldenrod;
     font-size: 30px;
-    padding: 10px 20px 90px 20px;
-   margin: 0px auto;
-    border: 10px solid rgb(255, 255, 255);
+   margin: 0 auto;
+    border: 1px solid transparent;
+    /* box-shadow: 0 2px 5px 1px rgba(64,60,67,.16); */
+    box-shadow:  0 2px 5px 1px #7A6123;
+    border-radius: 24px;
+    display: ;
+    z-index: 3;
+    text-align: center;
 
 }
 h1{
     text-align: center;
 }
 *{
-    background-color: rgb(243, 139, 4);
+    background-color: #ffffff;;
+}
+
+.stuff{
+    text-align: center;
+    color: black;
+    font-weight: bolder;
+    z-index: 3;
+
+}
+.feedback{
+    border: 30px solid rgb(0, 0, 0);
+
+}
+.feedback:focus{
+    color: white;
+}
+.input1{
+   ;
+    
+}
+.input2{
+    margin-right: 28px;
+}
+.cities{
+    margin-left: 20px;
+}
+.checkbox{
+    border-color: lightgreen;
+    
+}
+.bottomtext{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border: 10px solid transparent;
+    box-shadow: 2px 5px 1px goldenrod;
+    /* box-shadow:  2px 5px 1px rgba(64,60,67,.16); */
+    border-radius: 24px;
+    margin-top: ;
+}
+h2{
+    font-weight: bolder;
+    font-size: 40px;
+    text-decoration: underline #7A6123;
+  
+}
+button:hover{
+    color: black;
+    background-color: goldenrod;
+  
+  
+}
+h5{
+    font-size: 25px;
+    text-decoration: underline #7A6123;
+}
+.time{
+    margin-right: 60px;
+}
+.date{
+    margin-top: 0px;
+    margin-right: 60px;
+}
+.cities{
+    margin-right: px;
 }
