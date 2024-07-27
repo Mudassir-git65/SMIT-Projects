@@ -10,6 +10,8 @@ h1{
 .headings{
     text-align:center;
     background-color: #312E2B;
+    float: right;
+    width: 36%;
 
 }
 h2{
@@ -30,4 +32,6 @@ input:hover{
     margin-right: 60%;
     background-color: grey;
 }
-
+body{
+    margin: 0;
+}
