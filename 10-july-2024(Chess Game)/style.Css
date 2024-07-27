@@ -4,6 +4,7 @@ h1{
     color: white;
     text-align: center;
     background-color: #312E2B;
+
     
 }
 .headings{
@@ -25,3 +26,8 @@ input:hover{
     background-color: #312E2B;
     color: white;
 }
+.main{
+    margin-right: 60%;
+    background-color: grey;
+}
+
