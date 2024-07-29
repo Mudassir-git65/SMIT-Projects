@@ -3,22 +3,23 @@ h1{
     font-size: 50px;
     color: white;
     text-align: center;
-    background-color: #312E2B;
+    background-color: #779556;
 
     
 }
 .headings{
     text-align:center;
-    background-color: #312E2B;
     float: right;
     width: 36%;
     height: 880px;
+    background-color: #779556;
 
 }
 h2{
     color: white;
 font-size: 35px;
-background-color: #312E2B;
+background-color: #779556
+
 
 }
 *{
