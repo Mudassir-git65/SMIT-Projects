@@ -3,10 +3,8 @@
     font-size: 30px;
    margin: 0 auto;
     border: 1px solid transparent;
-    /* box-shadow: 0 2px 5px 1px rgba(64,60,67,.16); */
     box-shadow:  0 2px 5px 1px #7A6123;
     border-radius: 24px;
-    display: ;
     z-index: 3;
     text-align: center;
  }
@@ -29,10 +27,7 @@
 .feedback:focus{
     color: white;
 }
-.input1{
-   
-    
-}
+
 .input2{
     margin-right: 29px;
 
